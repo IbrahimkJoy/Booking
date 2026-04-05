@@ -8,7 +8,7 @@
    ⚠️  Replace with your Google Apps Script
    Web App URL after deployment.
 ───────────────────────────────────────── */
-const APPS_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE';
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwntdOSw_dGRFvUEIyUuyAyKwjC8ZyF_nQfYOQyD8pTis9x9L-06M9NOwVti0KFKnKraw/exec";
 
 /* ─────────────────────────────────────────
    CONSTANTS
